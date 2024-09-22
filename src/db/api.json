@@ -118,5 +118,35 @@
     "name": "Stripe API",
     "link": "https://docs.stripe.com/api",
     "ctg": "Payments"
+  },
+  {
+    "id": 21,
+    "name": "PayPal API",
+    "link": "https://developer.paypal.com/api/rest/",
+    "ctg": "Payments"
+  },
+  {
+    "id": 22,
+    "name": "SendGrid API",
+    "link": "https://docs.sendgrid.com/",
+    "ctg": "Email"
+  },
+  {
+    "id": 23,
+    "name": "Twilio API",
+    "link": "https://www.twilio.com/docs/usage/api",
+    "ctg": "Communication"
+  },
+  {
+    "id": 24,
+    "name": "OpenAI API",
+    "link": "https://beta.openai.com/docs/",
+    "ctg": "AI"
+  },
+  {
+    "id": 25,
+    "name": "Google Cloud Vision API",
+    "link": "https://cloud.google.com/vision/docs",
+    "ctg": "AI"
   }
 ]
